@@ -1,7 +1,14 @@
 # VisualTracker : A React application to visualize company annual statistics
 This is a react based application to show a company annual statistical data. Last standing data is visualized through a Card and full company growth report is being visualized using a line chart. For the visualization, application has read JSON format data from local machine.
 
-## Available Scripts
+### Requirements
+1. The application has developed and tested in windows 10. <br>
+2. Material ui <h6> `npm install @material-ui/core` </h6>
+3. axios
+4. react-chartjs-2
+5. react count-map
+6. react classnames
+
 
 In the project directory, you can run:
 
