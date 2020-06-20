@@ -4,13 +4,10 @@ This is a react based application to show a company annual statistical data. Las
 ### Requirements
 1. The application has developed and tested in windows 10. <br>
 2. Material ui <h6> `npm install @material-ui/core` </h6>
-3. axios
-4. react-chartjs-2
-5. react count-map
-6. react classnames
-
-
-In the project directory, you can run:
+3. axios <h6>`npm install axios` </h6>
+4. react-chartjs-2 <h6>`npm install --save react-chartjs-2 chart.js` </h6>
+5. react count-map <h6>`npm i react-countup` </h6>
+6. react classnames <h6> `npm install classnames --save` </h6>
 
 ### Run this project
 To run this project, download this repository. Open command prompt and execute the following command. The server will start and the application will run in [http://localhost:3000](http://localhost:3000).
