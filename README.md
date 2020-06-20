@@ -6,6 +6,7 @@ This is a react based application to show a company annual statistical data. Las
 In the project directory, you can run:
 
 ### Run this project
-To run this project, download this repository. Open command prompt and execute <h4> `npm start` </h4> command. The server will start and the application will run in [http://localhost:3000](http://localhost:3000)
+To run this project, download this repository. Open command prompt and execute the following command. The server will start and the application will run in [http://localhost:3000](http://localhost:3000).
+<h4> `npm start` </h4>
 
 
