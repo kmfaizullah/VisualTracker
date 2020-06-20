@@ -1,0 +1,145 @@
+﻿[
+	{
+	"cost": {
+		"total": 200000
+	},
+	"profit": {
+		"total": 100000
+		
+	},
+	"reportDate": "1998-01-06"
+	},
+	{
+	"cost": {
+		"total": 65400
+	},
+	
+	"profit": {
+		"total": 180000
+	},
+	"reportDate": "1999-01-06"
+	},
+	{
+
+	"cost": {
+		"total": 941000
+	},
+	"profit": {
+		"total": 260000
+	},
+	"reportDate": "2000-01-06"
+	},
+	{
+	"cost": {
+		"total": 1434000
+	},
+	"profit": {
+		"total": 420000
+	},
+	"reportDate": "2001-01-06"
+	},
+	{
+
+	"cost": {
+		"total": 211800
+	},
+	
+	"profit": {
+		"total": 560000
+	},
+	"reportDate": "2002-01-06"
+	},
+	{
+
+	"cost": {
+		"total": 292700
+	},
+	
+	"profit": {
+		"total": 820000
+		
+	},
+	"reportDate": "2003-01-06"
+	},
+	{
+	"cost": {
+		"total": 557800
+	},
+
+	"profit": {
+		"total": 1310000
+	},
+	
+	"reportDate": "2004-01-06"
+	},
+	{
+
+	"cost": {
+		"total": 616600
+	},
+	
+	"profit": {
+		"total": 1330000
+		
+	},
+
+	"reportDate": "2005-01-06"
+	},
+	{
+	
+	"cost": {
+		"total": 823400
+		
+	},
+	
+	"profit": {
+		"total": 1710000
+		
+	},
+	"reportDate": "2006-01-06"
+	},
+	{
+
+	"cost": {
+		"total": 992700
+	},
+	"profit": {
+		"total": 21300000
+	},
+	"reportDate": "2007-01-06"
+	},
+	{
+	"cost": {
+		"total": 1203800
+	},
+	
+	"profit": {
+		"total": 25900000
+	},
+	
+	"reportDate": "2008-01-06"
+	},
+	{
+	"cost": {
+		"total": 1678700
+	},
+	
+	"profit": {
+		"total": 36200000
+	},
+	
+	"reportDate": "2009-02-02"
+	},
+	{
+	
+	"cost": {
+		"total": 1988100
+	},
+	
+	"profit": {
+		"total": 4260000000
+	},
+	
+	"reportDate": "2010-02-03"
+	}
+]

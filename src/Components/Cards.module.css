@@ -1,0 +1,21 @@
+.container {
+	margin-top: 10px;
+	margin :50 px 0;
+}
+
+.card {
+	margin-top:10px;
+	margin : 0 2% !important;
+}
+
+.income {
+	border-bottom: 10px solid rgb(115, 111, 134, 0.5);
+}
+
+.profit {
+	border-bottom: 10px solid rgb(42, 108, 183, 0.5);
+}
+
+.cost {
+	border-bottom: 10px solid rgb(129, 70, 10, 0.5);
+}
