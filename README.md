@@ -10,7 +10,7 @@ This is a react based application to show a company annual statistical data. Las
 6. react classnames <h6> `npm install classnames --save` </h6>
 
 ### Run this project
-To run this project, firt install node.js in your machine. Then, create a folder containing any name for this application. After that, go inside this folder and open terminal. Then create react app by executing `npx create-react-app ./` command. Download this repository. Install all above mentioned requirements. Extract the dowloaded file and replace the src folder of your created react app by the downloaded src folder. Finally execute the `npm start` command and that will start the application in your browser in [http://localhost:3000](http://localhost:3000).
+To run this project, first install node.js in your machine. Then, create a folder containing any name for this application. After that, go inside this folder and open terminal. Then create react app by executing `npx create-react-app ./` command. Download this repository. Install all above mentioned requirements. Extract the dowloaded file and replace the src folder of your created react app by the downloaded src folder. Finally, execute the `npm start` command and that will start the application in your browser in [http://localhost:3000](http://localhost:3000).
 <h4>  </h4>
 
 
