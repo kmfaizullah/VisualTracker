@@ -13,7 +13,13 @@ This is a react based application to show a company annual statistical data. Las
 
 #### Run this project
 <b> Step :1 </b> Download and install Node.js in your machine using the following link. <h6>`https://nodejs.org/en/download/`</h6>
-To run this project, first install node.js in your machine. Then, create a folder containing any name for this application. After that, go inside this folder and open terminal. Then create react app by executing `npx create-react-app ./` command. Download this repository. Install all above mentioned requirements. Extract the dowloaded file and replace the src folder of your created react app by the downloaded src folder. Finally, execute the `npm start` command and that will start the application in your browser in [http://localhost:3000](http://localhost:3000).
-<h4>  </h4>
+<b> Step :2 </b> Create a folder containg any name for this project. <br>
+<b> Step :3 </b> Go inside the folder, Open terminal and run the following command to create react app. <h6>`npx create-react-app ./` </h6>
+<b> Step :4 </b> Installed all the mentioned requirements. <br>
+<b> Step :5 </b> Download this repository and extracted all the files. <br>
+<b> Step :6 </b> Now replace created app's <b> src </b> folder by the extracted files `src` folder. <br>
+<b> Step :7 </b> Now execute the `npm start` command. It will run the project. <br>
+<b> Step :8 </b> Go to web browser and check your program is running in [http://localhost:3000](http://localhost:3000). <br>
+
 
 
